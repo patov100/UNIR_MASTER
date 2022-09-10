@@ -1,12 +1,12 @@
-[{"alumno":"Kerly","nota":9.09,"ranking":10}
- ,{"alumno":"Evelyn","nota":8,"ranking":100}
- ,{"alumno":"July","nota":7,"ranking":150}
- ,{"alumno":"Joselin","nota":6,"ranking":200}
- ,{"alumno":"Rosa","nota":5,"ranking":250}
- ,{"alumno":"Juan","nota":4,"ranking":300}
- ,{"alumno":"Alvaro","nota":3,"ranking":350}
- ,{"alumno":"Andrea","nota":2,"ranking":400}
- ,{"alumno":"Julio","nota":1,"ranking":450}
+[{"alumno":"Patricio","nota":9.09,"ranking":10}
+ ,{"alumno":"Roberto","nota":8,"ranking":100}
+ ,{"alumno":"Carolina","nota":7,"ranking":150}
+ ,{"alumno":"Martín","nota":6,"ranking":200}
+ ,{"alumno":"Sebastián","nota":5,"ranking":250}
+ ,{"alumno":"Joaquín","nota":4,"ranking":300}
+ ,{"alumno":"Teresa","nota":3,"ranking":350}
+ ,{"alumno":"Santiago","nota":2,"ranking":400}
+ ,{"alumno":"Gabriela","nota":1,"ranking":450}
 ]
  
  
